@@ -1,24 +1,23 @@
-# Página Personal Katherine Matos
+# Página Personal - Katherine Matos
 
 ## Descripción
-Esta es una página web personal creada con **HTML y CSS**. Muestra información básica como contactos, hobbies, redes sociales y un video favorito.
+Esta es una página web personal creada con HTML y CSS. Muestra información básica como contacto, hobbies, redes sociales y un video favorito. Es un proyecto sencillo pensado para mostrar mi perfil de manera clara y visual.
 
 ## Archivos del Proyecto
-- `index.html` – Estructura de la página.  
-- `styles.css` – Estilos de la página.  
-- `Katherine.jpeg` – Imagen de perfil.  
+- `index.html` – Contiene la estructura de la página.
+- `styles.css` – Contiene los estilos y diseño visual.
+- `Katherine.jpeg` – Imagen de perfil.
 
-## Cómo Usar
-1. Descargar o clonar el proyecto.  
-2. Asegurarse de que la imagen `Katherine.jpeg` esté en la misma carpeta que `index.html`.  
-3. Abrir `index.html` en un navegador.  
+## Contenido de la Página
+- Foto y nombre.
+- Información de contacto (teléfono, correo electrónico, dirección).
+- Hobbies.
+- Enlaces a redes sociales.
+- Video favorito.
 
-## Contenido
-- Foto y nombre  
-- Información de contacto  
-- Hobbies  
-- Enlaces a redes sociales  
-- Video favorito  
+## Tecnologías Utilizadas
+- HTML5
+- CSS3
 
 ## Autor
-**Katherine Matos**
+Katherine Matos
