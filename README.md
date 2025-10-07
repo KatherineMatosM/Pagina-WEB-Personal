@@ -1,5 +1,4 @@
-# Página Personal - Katherine Matos
-
+# Página Web Personal 
 ## Descripción
 Esta es una página web personal creada con HTML y CSS. Muestra información básica como contacto, hobbies, redes sociales y un video favorito. Es un proyecto sencillo pensado para mostrar mi perfil de manera clara y visual.
 
@@ -22,4 +21,4 @@ Esta es una página web personal creada con HTML y CSS. Muestra información bá
 - CSS3
 
 ## Autor
-Katherine Matos
+Katherine Matos - 20241577
