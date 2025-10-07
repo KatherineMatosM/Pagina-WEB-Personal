@@ -3,6 +3,8 @@
 ## Descripción
 Esta es una página web personal creada con HTML y CSS. Muestra información básica como contacto, hobbies, redes sociales y un video favorito. Es un proyecto sencillo pensado para mostrar mi perfil de manera clara y visual.
 
+<img width="358" height="425" alt="1" src="https://github.com/user-attachments/assets/302989d8-7e60-49e3-a7e2-57090e51bd90" />
+
 ## Archivos del Proyecto
 - `index.html` – Contiene la estructura de la página.
 - `styles.css` – Contiene los estilos y diseño visual.
